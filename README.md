@@ -1,0 +1,2 @@
+# jafafx-firsttry
+Ejercicio JavaFx
